@@ -6,10 +6,10 @@
 
 ## 第一次使用
 
-1. 取得私人專案的邀請，登入 GitHub 並接受邀請。
-2. 在專案頁選 **Code → Download ZIP**。
-3. 解壓縮 ZIP，雙擊 **index.html**，用 Chrome、Edge 或 Firefox 開啟。
-4. 先閱讀 [零件與組裝前核對清單](CHECKLIST.md)，再開始步驟 01。
+1. 直接開啟 [互動組裝圖](https://debbylin.github.io/open-duck-mini-guide/)，不需邀請或登入。
+2. 先讀 [繁中實作 Step by Step](https://debbylin.github.io/open-duck-mini-guide/step-by-step.html) 與 [繁中 FAQ](https://debbylin.github.io/open-duck-mini-guide/faq.html)，尤其是 C001、零位及校正風險。
+3. 若要離線使用，在專案頁選 **Code → Download ZIP**，解壓縮後雙擊 **index.html** 或 **step-by-step.html**。
+4. 逐項完成 [零件核對清單](CHECKLIST.md)，實作手冊可在瀏覽器記錄完成進度。
 
 不需要安裝程式，也不需要架設伺服器。組裝照片已包含在網頁裡，離線也能看；官方原文與 CAD 連結需要網路。GitHub 的檔案檢視頁只會顯示 HTML 原始碼，請下載後開啟。
 
@@ -21,6 +21,12 @@
 - 可展開組件、隱藏外殼、切換深淺色，或看官方完成外觀。
 - 接線表內可開啟官方完整配線圖。
 - 圖取得焦點後，左右鍵切換步驟，Home / End 到第一步及最後一步，空白鍵切換展開。
+
+## 先看實作與 FAQ
+
+- [18 個實作步驟（Markdown 版）](STEP-BY-STEP.md)：每步包含準備、動作、完成檢查與停止條件。
+- [19 題常見問題（Markdown 版）](FAQ.md)：英文 GitHub、論壇與實作紀錄的繁中整理，附證據狀態及來源。
+- 本教學已更正：校正程式可能同時移動多個關節，偏移數值需確認手動儲存；C001 對既有步態的追蹤仍有未解討論。
 
 ## 建議組裝順序
 
